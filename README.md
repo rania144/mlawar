@@ -2,7 +2,7 @@
 
 ##  Description générale
 
-Ce projet est un **agent client écrit en Python** conçu dans un **cadre de laboratoire et d’apprentissage en cybersécurité**.  
+Ce projet est un **agent client écrit en Python** . 
 Il met en œuvre plusieurs mécanismes techniques courants tels que :
 
 - Communication réseau via sockets
