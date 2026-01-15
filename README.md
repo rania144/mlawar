@@ -81,6 +81,7 @@ Ce projet permet d’acquérir et de consolider des connaissances sur :
 ##  Dépendances utilisées
 
 ```python
+import os
 import socket
 import time
 
