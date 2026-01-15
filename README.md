@@ -11,15 +11,13 @@ Il met en œuvre plusieurs mécanismes techniques courants tels que :
 - Chiffrement et déchiffrement de fichiers
 - Exécution de commandes à distance
 
- **Ce projet est strictement éducatif** et destiné à l’étude des mécanismes internes des logiciels de contrôle distant.
-
 ---
 
 # – Serveur de Commande et Contrôle (C2)
 
 ##  Description générale
 
-Ce script Python représente la **partie serveur (C2 – Command & Control)** d’un projet de laboratoire en cybersécurité.  
+Ce script Python représente la **partie serveur (C2 – Command & Control)** . 
 Il permet de :
 
 - Accepter des connexions clientes
@@ -27,8 +25,6 @@ Il permet de :
 - Envoyer des commandes au client
 - Gérer des transferts de fichiers
 - Centraliser les journaux d’activité
-
- **Ce code est destiné exclusivement à un usage éducatif et expérimental**, dans un environnement contrôlé.
 
 ---
 
