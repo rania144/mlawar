@@ -32,12 +32,6 @@ Il permet de :
 
 ---
 
-##  Dépendances utilisées
-
-```python
-import socket
-import time
-
 ## Journalisation serveur – `c2_master.log`
 
 Le fichier **`c2_master.log`** est généré automatiquement par le serveur C2.  
@@ -70,7 +64,7 @@ Il sert à :
 
 ---
 
-## Objectifs pédagogiques
+## Objectifs 
 
 Ce projet permet d’acquérir et de consolider des connaissances sur :
 
@@ -83,8 +77,11 @@ Ce projet permet d’acquérir et de consolider des connaissances sur :
 
 ---
 
-## Conclusion
 
-Ce laboratoire constitue un **support d’apprentissage complet** pour comprendre les mécanismes techniques utilisés dans les logiciels de contrôle distant, tout en restant dans un **cadre éthique, légal et pédagogique**.
+##  Dépendances utilisées
+
+```python
+import socket
+import time
 
 
