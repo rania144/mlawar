@@ -1,1 +1,21 @@
 [2026-01-15 17:46:36] [INFO] C2 pret sur 5555
+[2026-01-16 11:18:06] [INFO] C2 pret sur 5555
+[2026-01-16 11:21:31] [INFO] C2 pret sur 5555
+[2026-01-16 11:21:55] [INFO] Victime : 127.0.0.1
+[2026-01-16 11:21:55] [EXFIL] f1ecb5d9-ca39-4350-90ab-bb382cb25a41:FKZDDTXMBCRFXPYMQNMVBQVUFILZKVMV
+[2026-01-16 11:22:28] [REMOTE] LOG:[2026-01-16 11:21:55] [INFO] Connexion etablie.
+[2026-01-16 11:22:51] [REMOTE] LOG:[2026-01-16 11:22:51] [INFO] Envoi de /home/debian/Documents/malwar/LABO_TEST/secret.txt
+[2026-01-16 11:22:51] [INFO] Fichier sauve : recup_secret.txt
+[2026-01-16 11:23:43] [INFO] Envoi de /home/debian/Documents/malwar/TEST12.txt reussi.
+[2026-01-16 11:24:01] [REMOTE] LOG:[2026-01-16 11:23:43] [INFO] Telechargement de aa fini.
+[2026-01-16 11:25:05] [REMOTE] LOG:[2026-01-16 11:25:05] [WARNING] Chiffrement en cours...
+[2026-01-16 11:25:37] [REMOTE] LOG:[2026-01-16 11:25:37] [WARNING] Chiffrement en cours...
+[2026-01-16 11:26:03] [REMOTE] LOG:[2026-01-16 11:26:03] [WARNING] Chiffrement en cours...
+[2026-01-16 11:54:02] [INFO] C2 pret sur 5555
+[2026-01-16 11:54:28] [INFO] Victime : 127.0.0.1
+[2026-01-16 11:54:28] [EXFIL] 6ff54da2-ac9a-4162-ba30-656141459819:WSZZLEBISWNMCMEPEOJFUWVWPMOKMVYT
+[2026-01-16 11:54:43] [REMOTE] LOG:[2026-01-16 11:54:28] [INFO] Connexion etablie.
+[2026-01-16 11:55:14] [REMOTE] LOG:[2026-01-16 11:55:14] [INFO] Envoi de /home/debian/Documents/malwar/LABO_TEST/secret.txt
+[2026-01-16 11:55:15] [INFO] Fichier sauve : recup_secret.txt
+[2026-01-16 11:57:05] [INFO] Envoi de /home/debian/Documents/malwar/TEST12.txt reussi.
+[2026-01-16 11:57:31] [REMOTE] LOG:[2026-01-16 11:57:05] [INFO] Telechargement de TP fini.
