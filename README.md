@@ -1,4 +1,8 @@
-#   Agent Client Python (Analyse Technique)
+# Groupe:
+RANIA GUERDOU 
+Yoël MAINCENT
+
+# Agent Client Python (Analyse Technique)
 
 ##  Description générale
 
