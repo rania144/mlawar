@@ -1,5 +1,6 @@
 # Groupe:
 RANIA GUERDOU 
+
 Yoël MAINCENT
 
 # Agent Client Python (Analyse Technique)
